@@ -5,5 +5,6 @@ This is Josh Portfolio Project. Using Html and Css and Bootstarp.
 ## Tech used
 * HTML
 * CSS
+* Bootstrap
 ## Installation
 No need to install anything, just open index.html.
